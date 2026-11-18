@@ -39,3 +39,6 @@ Never share passwords, API keys, access tokens or confidential information when 
 Technical guidance is informed by official Microsoft Learn documentation.
 
 This is an independent community project, not an official Microsoft support service.
+
+## Knowledge Bases
+- [KB-01: Authentication and Connection Failures](knowledge/KB-01-authentication.html)
