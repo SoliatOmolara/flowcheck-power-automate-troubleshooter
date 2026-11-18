@@ -1,6 +1,6 @@
 ---
 Title: "KB-01 — Authentication and Connection Failures"
-Tescription: "Evidence-led Power Automate cloud-flow authentication troubleshooting reference"
+Description: "Evidence-led Power Automate cloud-flow authentication troubleshooting reference"
 ---
 
 # KB-01 — Authentication and Connection Failures
