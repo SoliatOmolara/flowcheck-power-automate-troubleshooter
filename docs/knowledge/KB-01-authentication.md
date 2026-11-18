@@ -233,7 +233,7 @@ Ask only for missing information that will change the next check:
 - **[MS-06]** [Conditional Access and MFA in Power Automate](https://learn.microsoft.com/en-us/troubleshoot/power-platform/power-automate/administration/conditional-access-and-multi-factor-authentication-in-flow) — organisation identity-policy diagnostics.
 - **[MS-07]** [Verify OAuth configuration for custom connectors](https://learn.microsoft.com/en-us/troubleshoot/power-platform/power-automate/connections/verify-oauth-configuration) — OAuth configuration and testing.
 
-> **Maintenance note:** Review this reference when Microsoft changes connection-management navigation, connector authentication behaviour or identity-policy guidance. The above links are source references, not claims that FlowCheck has live access to Microsoft's current service health or a user's environment.
+> **Maintenance note:** We review this reference when Microsoft changes connection-management navigation, connector authentication behaviour or identity-policy guidance. The above links are source references, not claims that FlowCheck has live access to Microsoft's current service health or a user's environment.
 
 [MS-01]: https://learn.microsoft.com/en-us/power-automate/fix-flow-failures
 [MS-02]: https://learn.microsoft.com/en-us/power-automate/error-reference
