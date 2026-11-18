@@ -1,4 +1,3 @@
-
 ---
 Title: "KB-02 — Permissions and Access Control"
 Description: "Evidence-based troubleshooting for Power Automate authorisation and permissions failures."
@@ -6,12 +5,11 @@ Description: "Evidence-based troubleshooting for Power Automate authorisation an
 
 # KB-02 — Permissions and Access Control
 
-**Project:** FlowCheck — Power Automate Troubleshooting Assistant  
-**Knowledge ID:** KB-02  
-**Version:** 1.0.0  
-**Last reviewed:** 2026-11-18  
-**Primary category:** Authorisation  
-**Scope:** Microsoft Power Automate cloud flows
+> **FlowCheck knowledge reference** · Version **1.0.0** · Reviewed **18 November 2026**  
+> **Coverage:** Microsoft Power Automate cloud flows; connection authentication and identity issues.  
+> **Status:** Community troubleshooting guidance, not an official Microsoft support service.
+
+[← Knowledge-base home](../index.html)
 
 ## 1. Purpose
 
