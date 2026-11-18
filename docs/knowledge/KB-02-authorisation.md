@@ -501,14 +501,7 @@ The following official Microsoft documentation informed this reference:
 10. [Impact of data policies on apps and flows](https://learn.microsoft.com/en-us/power-platform/admin/dlp-impact-policies-apps-flows)
 11. [Overview of solution-aware cloud flows](https://learn.microsoft.com/en-us/power-automate/overview-solution-flows)
 
-## 9. Maintenance and Versioning
 
-**Version:** 1.0.0  
-**Review date:** 2026-11-18  
-**Maintained in:** FlowCheck GitHub knowledge repository
-
-Update this reference when Microsoft changes relevant connector behaviour, permission models, solution deployment procedures or organisational policy guidance.
-
-Changes should be reviewed for technical accuracy and evaluated against relevant FlowCheck test scenarios.
+> **Maintenance note:** Update this reference when Microsoft changes relevant connector behaviour, permission models, solution deployment procedures or organisational policy guidance. Changes should be reviewed for technical accuracy and evaluated against relevant FlowCheck test scenarios.
 
 This document is an independent community-maintained troubleshooting reference and is not an official Microsoft support publication.
