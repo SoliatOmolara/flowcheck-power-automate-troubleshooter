@@ -44,3 +44,5 @@ This is an independent community project, not an official Microsoft support serv
 - [KB-01: Authentication and Connection Failures](knowledge/KB-01-authentication.html)
 - [KB-02: Permissions and Access Control](knowledge/KB-02-authorisation.html)
 - [KB-03: Expressions and Data Handling](knowledge/KB-03-expressions-data.html)
+- [KB-04: Throttling, Timeouts and Service Errors](knowledge/KB-04-throttling-timeouts.html)
+
