@@ -45,4 +45,5 @@ This is an independent community project, not an official Microsoft support serv
 - [KB-02: Permissions and Access Control](knowledge/KB-02-authorisation.html)
 - [KB-03: Expressions and Data Handling](knowledge/KB-03-expressions-data.html)
 - [KB-04: Throttling, Timeouts and Service Errors](knowledge/KB-04-throttling-timeouts.html)
+- [KB-05: Triggers and Workflow Execution](knowledge/KB-05-triggers-execution.html)
 
